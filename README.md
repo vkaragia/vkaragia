@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vkaragia
-- 👀 I’m interested in ubiquitous computing on military applications
+- 👀 I’m interested in ubiquitous computing
 - 🌱 I’m currently learning ubiquitous computing  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
