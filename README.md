@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vkaragia
-- 👀 I’m interested in ubiquitous computing
-- 🌱 I’m currently learning ubiquitous computing  
+- 👀 I’m interested in pervasive computing
+- 🌱 I’m currently learning pervasive computing  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
